@@ -29,11 +29,12 @@
 		</dependency>
 	</dependencies>
 
+
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
+				<groupid>org.springframework.boot</groupid>
+				<artifactid>spring-boot-maven-plugin</artifactid>
 			</plugin>
 		</plugins>
 	</build>
